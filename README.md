@@ -65,6 +65,7 @@ Aplicación web full stack que conecta usuarios con asesores especializados
 - 📧 Email: alejandroe062005@gmail.com
 - 📱 Teléfono: +51 997 489 556
 - 📍 Ubicación: Lima, Perú
+- Linkedin: www.linkedin.com/in/nelson-espinoza2005
 
 
  **"Comprometido con la excelencia técnica y el aprendizaje continuo"**
