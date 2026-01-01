@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Nelson Alejandro Espinoza Peña
+# ¡Hola! Soy Nelson Alejandro Espinoza Peña
 
 ### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas
 
