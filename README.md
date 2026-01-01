@@ -50,7 +50,7 @@ Bienvenido a mi perfil de GitHub. Soy estudiante del séptimo ciclo de Ingenier�
 -  Inglés Avanzado (Certificado)
 -  Aprendizaje rápido y adaptabilidad
 
-## 📫 Contacto
+##  Contacto
 
 <div align="center">
 
