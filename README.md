@@ -6,7 +6,7 @@
 
 <br>
 
-###  Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas
+###  Estudiante de Ingeniería de Sistemas
 
 Bienvenido a mi perfil de GitHub. Soy estudiante del séptimo ciclo de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente en el tercio superior de mi facultad. Me apasiona el desarrollo de soluciones tecnológicas innovadoras y estoy en constante aprendizaje de nuevas tecnologías.
 
